@@ -15,6 +15,7 @@
             { "type": "aimbot_select", "name": "Aimbot Select" },
             { "type": "switch", "name": "Full Headshot", "id": 41 },
             { "type": "switch", "name": "No Recoil", "id": 39 },
+            { "type": "switch", "name": "Pull Enemy", "id": 37 },
             { "type": "switch", "name": "Ignore Knock", "id": 22 }
           ]
         },
