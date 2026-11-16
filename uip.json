@@ -10,7 +10,7 @@
           "column": "left",
           "items": [
             { "type": "switch", "name": "Enable Functions", "id": 1 },
-            { "type": "switch", "name": "Aim Silents", "id": 8 },
+            { "type": "switch", "name": "Aim Silent", "id": 8 },
             { "type": "switch", "name": "Aimbot AI", "id": 6 },
             { "type": "aimbot_select", "name": "Aimbot Select" },
             { "type": "switch", "name": "Full Headshot", "id": 41 },
