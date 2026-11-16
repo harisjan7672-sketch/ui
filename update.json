@@ -1,6 +1,6 @@
 {
-  "maintenance": true,
-  "force_update": true,
+  "maintenance": false,
+  "force_update": false,
   "title": "App Status",
   "message": "Welcome to HarisXcheats!",
   "update_url": "https://t.me/Haris_x_cheats"
