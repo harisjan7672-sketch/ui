@@ -14,7 +14,6 @@
             { "type": "switch", "name": "Aimbot AI", "id": 6 },
             { "type": "aimbot_select", "name": "Aimbot Select" },
             { "type": "switch", "name": "Full Headshot", "id": 41 },
-            { "type": "switch", "name": "Enemy Pull", "id": 37 },
             { "type": "switch", "name": "No Recoil", "id": 39 },
             { "type": "switch", "name": "Ignore Knock", "id": 22 }
           ]
@@ -119,4 +118,4 @@
       ]
     }
   ]
-            }
+}
