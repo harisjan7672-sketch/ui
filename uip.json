@@ -10,10 +10,9 @@
           "column": "left",
           "items": [
             { "type": "switch", "name": "Enable Functions", "id": 1 },
-            { "type": "switch", "name": "Aim Silet", "id": 8 },
+            { "type": "switch", "name": "Aim Silent", "id": 8 },
             { "type": "switch", "name": "Aimbot AI", "id": 6 },
-            { "type": "aimbot_select", "name": "Aimbot Select" },
-            { "type": "switch", "name": "Full Headshot", "id": 41 }
+            { "type": "switch", "name": "AimBot", "id": 28 },
             { "type": "switch", "name": "Ignore Knock", "id": 22 }
           ]
         },
@@ -73,8 +72,8 @@
             { "type": "switch", "name": "WallBug", "id": 30 },
             { "type": "switch", "name": "Fly Hack", "id": 4 },
             { "type": "switch", "name": "Speed Hack", "id": 25 },
-            { "type": "switch", "name": "Underground", "id": 3 },
-            { "type": "switch", "name": "Enemy Down", "id": 26 },
+            { "type": "switch", "name": "Dive Kill", "id": 3 },
+            { "type": "switch", "name": "Scale Down", "id": 26 },
             { "type": "switch", "name": "TP Mark", "id": 38 },
             { "type": "switch", "name": "Spin Bot", "id": 29 }
           ]
@@ -86,10 +85,10 @@
             { "type": "switch", "name": "TP Mark Shortcut", "id": 106 },
             { "type": "switch", "name": "Fly Hack Shortcut", "id": 108 },
             { "type": "switch", "name": "Speed Hack Shortcut", "id": 101 },
-            { "type": "switch", "name": "Underground Shortcut", "id": 102 },
-            { "type": "switch", "name": "Enemy Down Shortcut", "id": 103 },
+            { "type": "switch", "name": "Dive Kill Shortcut", "id": 102 },
+            { "type": "switch", "name": "Scale Down Shortcut", "id": 103 },
             { "type": "switch", "name": "Ghost Hack Shortcut", "id": 104 },
-            { "type": "switch", "name": "Tp Wall Shortcut", "id": 105 }
+            { "type": "switch", "name": "WallHack Shortcut", "id": 105 }
           ]
         }
       ]
@@ -103,8 +102,7 @@
           "items": [
             { "type": "text", "name": "Author: HarisXcheats" },
             { "type": "text", "name": "Version: 2.2" },
-            { "type": "text", "name": "Build: v7a-arm64" },
-            { "type": "theme_selector", "name": "Menu Theme" }
+            { "type": "text", "name": "Build: v7a-arm64" }
           ]
         },
         {
