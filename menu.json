@@ -19,7 +19,7 @@
           "column": "right", 
           "items": [ 
             {"type": "slider", "name": "FOV", "id": 9, "default": 68, "max": 180, "unit": ""}, 
-            {"type": "switch", "name": "Show Fov Radius", "id": 40}, 
+            {"type": "switch", "name": "Show Fov Radius", "id": 27}, 
             {"type": "slider", "name": "Head Rate", "id": 70, "default": 2, "max": 5, "unit": ""}, 
             {"type": "slider", "name": "Chest Rate", "id": 7, "default": 1, "max": 5, "unit": ""}, 
             {"type": "switch", "name": "Full Headshot", "id": 41}, 
@@ -68,7 +68,7 @@
           "name": "EXPLOITS", 
           "column": "left", 
           "items": [ 
-            {"type": "switch", "name": "AimBot", "id": 28}, 
+          
             {"type": "switch", "name": "PC Movement", "id": 5}, 
             {"type": "switch", "name": "Ghost Hack", "id": 33}, 
             {"type": "switch", "name": "WallBug", "id": 30}, 
@@ -84,7 +84,7 @@
           "name": "SHORTCUTS", 
           "column": "right", 
           "items": [ 
-            {"type": "switch", "name": "Aim Magnet", "id": 107}, 
+            
             {"type": "switch", "name": "TP Mark", "id": 106}, 
             {"type": "switch", "name": "Fly Hack", "id": 108}, 
             {"type": "switch", "name": "Speed Hack", "id": 101}, 
