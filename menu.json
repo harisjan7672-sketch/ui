@@ -44,7 +44,7 @@
             {"type": "switch", "name": "Name", "id": 21}, 
             {"type": "switch", "name": "Health", "id": 19}, 
             {"type": "switch", "name": "Distance", "id": 13}, 
-            {"type": "switch", "name": "Counts", "id": 31} 
+            
           ] 
         }, 
         { 
