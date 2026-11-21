@@ -98,7 +98,7 @@
           "name": "OWNER", 
           "column": "left", 
           "items": [ 
-            {"type": "text", "name": "owner: HarisXcheats"}, 
+            {"type": "text", "name": "Owner: HarisXcheats"}, 
             {"type": "text", "name": "Version: 2.4"}, 
             {"type": "text", "name": "Build: v7a-arm64"}, 
             {"type": "theme_selector", "name": "Menu Theme"} 
