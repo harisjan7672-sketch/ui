@@ -10,7 +10,7 @@
           "column": "left", 
           "items": [ 
             
-            {"type": "switch", "name": "Aimbot AI", "id": 6}, 
+            {"type": "switch", "name": "Aimbot I", "id": 6}, 
             
           ] 
         }, 
