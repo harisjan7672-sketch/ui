@@ -9,7 +9,7 @@
           "name": "Aim", 
           "column": "left", 
           "items": [ 
-            {"type": "switch", "name": "Silent Aim", "id": 8}, 
+            {"type": "switch", "name": "Silent Ai", "id": 8}, 
             {"type": "switch", "name": "Aimbot Lite", "id": 6}, 
             {"type": "aimbot_select", "name": "Aimbot Select"} 
           ] 
