@@ -19,7 +19,7 @@
           "name": "Aim Settings", 
           "column": "right", 
           "items": [ 
-            {"type": "slider", "name": "FOV", "id": 9, "default": 68, "max": 180, "unit": ""}, 
+            {"type": "slider", "name": "FOV", "id": 9, "default": 0, "max": 180, "unit": ""}, 
             {"type": "switch", "name": "Show Fov Radius", "id": 27}, 
 
 
