@@ -1,6 +1,7 @@
+
 { 
-  "version": 16, 
-  "updated": "2026-11-23", 
+  "version": 15, 
+  "updated": "2026-10-27", 
   "tabs": [ 
     { 
       "name": "AIM", 
@@ -22,7 +23,8 @@
             {"type": "switch", "name": "Show Fov Radius", "id": 27}, 
             {"type": "slider", "name": "Head Rate", "id": 70, "default": 2, "max": 5, "unit": ""}, 
             {"type": "slider", "name": "Chest Rate", "id": 7, "default": 1, "max": 5, "unit": ""}, 
-            {"type": "switch", "name": "Full Headshot", "id": 41}
+            {"type": "switch", "name": "Full Headshot", "id": 41}, 
+          
           ] 
         } 
       ] 
@@ -61,42 +63,13 @@
       ] 
     }, 
     { 
-      "name": "SKIN", 
-      "categories": [ 
-        { 
-          "name": "SKIN CHANGER", 
-          "column": "left", 
-          "items": [ 
-            {"type": "switch", "name": "Criminal Red", "id": 2001}, 
-            {"type": "switch", "name": "Criminal Blue", "id": 2002}, 
-            {"type": "switch", "name": "Criminal Yellow", "id": 2003}, 
-            {"type": "switch", "name": "Criminal Purple", "id": 2004}, 
-            {"type": "switch", "name": "Criminal Green", "id": 2005}, 
-            {"type": "switch", "name": "Angelical Azul", "id": 2006}, 
-            {"type": "switch", "name": "Angelical Vermelha", "id": 2007}, 
-            {"type": "switch", "name": "Passe Sakura", "id": 2008}, 
-            {"type": "switch", "name": "Passe HipHop", "id": 2009}, 
-            {"type": "switch", "name": "Passe HipHop V2", "id": 2010} 
-          ] 
-        }, 
-        { 
-          "name": "INFO", 
-          "column": "right", 
-          "items": [ 
-            {"type": "text", "name": "Select a skin to apply"}, 
-            {"type": "text", "name": "Skins work in lobby and match"}, 
-            {"type": "text", "name": "Toggle again to remove"} 
-          ] 
-        } 
-      ] 
-    }, 
-    { 
       "name": "MISC", 
       "categories": [ 
         { 
           "name": "EXPLOITS", 
           "column": "left", 
           "items": [ 
+            
             {"type": "switch", "name": "PC Movement", "id": 5}, 
             {"type": "switch", "name": "Ghost Hack", "id": 33}, 
             {"type": "switch", "name": "WallBug", "id": 30}, 
@@ -104,6 +77,7 @@
             {"type": "switch", "name": "Speed Hack", "id": 25}, 
             {"type": "switch", "name": "Underground", "id": 3}, 
             {"type": "switch", "name": "Enemy Down", "id": 26}, 
+          
             {"type": "switch", "name": "Spin Bot", "id": 29} 
           ] 
         }, 
@@ -111,6 +85,8 @@
           "name": "SHORTCUTS", 
           "column": "right", 
           "items": [ 
+            
+            
             {"type": "switch", "name": "Fly Hack", "id": 108}, 
             {"type": "switch", "name": "Speed Hack", "id": 101}, 
             {"type": "switch", "name": "Underground", "id": 102}, 
