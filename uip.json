@@ -47,41 +47,11 @@
           "name": "ESP CONFIG",
           "column": "right",
           "items": [
-            {
-              "type": "color_select",
-              "name": "ESP Color",
-              "id": 16,
-              "default": "White",
-              "options": ["White", "Red", "Green", "Blue", "Yellow", "Purple", "Cyan", "Orange", "Pink", "Black"]
-            },
-            {
-              "type": "color_select",
-              "name": "Aim Line Color",
-              "id": 62,
-              "default": "Green",
-              "options": ["White", "Red", "Green", "Blue", "Yellow", "Purple", "Cyan", "Orange", "Pink", "Black"]
-            },
-            {
-              "type": "color_select",
-              "name": "Target Color",
-              "id": 63,
-              "default": "Green",
-              "options": ["White", "Red", "Green", "Blue", "Yellow", "Purple", "Cyan", "Orange", "Pink", "Black"]
-            },
-            {
-              "type": "box_select",
-              "name": "Box Type",
-              "id": 17,
-              "default": "Corner",
-              "options": ["Full", "Corner", "3D", "Filled"]
-            },
-            {
-              "type": "line_select",
-              "name": "Line Type",
-              "id": 18,
-              "default": "Bottom",
-              "options": ["Top", "Center", "Bottom"]
-            }
+            { "type": "switch", "name": "ESP Color", "id": 16 },
+            { "type": "switch", "name": "Aim Line Color", "id": 62 },
+            { "type": "switch", "name": "Target Color", "id": 63 },
+            { "type": "switch", "name": "Box Type", "id": 17 },
+            { "type": "switch", "name": "Line Type", "id": 18 }
           ]
         }
       ]
