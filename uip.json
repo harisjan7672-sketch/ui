@@ -35,15 +35,12 @@
           "name": "VISUALS",
           "column": "left",
           "items": [
-            { "type": "switch", "name": "Enable Functions", "id": 1 },
-            { "type": "switch", "name": "Aim Line", "id": 60 },
-            { "type": "switch", "name": "ESP Alert", "id": 61 },
-            { "type": "switch", "name": "line", "id": 11 },
-            { "type": "switch", "name": "Box", "id": 12 },
-            { "type": "switch", "name": "Name", "id": 21 },
-            { "type": "switch", "name": "Health", "id": 19 },
-            { "type": "switch", "name": "Distance", "id": 13 },
-            { "type": "switch", "name": "Counts", "id": 31 }
+            { "type": "switch", "name": "Line Color", "id": 16 },
+            { "type": "switch", "name": "Target Color", "id": 63 },
+            { "type": "switch", "name": "Skeleton Color", "id": 64 },
+            { "type": "switch", "name": "Box Type", "id": 17 },
+            { "type": "switch", "name": "Line Type", "id": 18 },
+            { "type": "switch", "name": "Line Thickness", "id": 65 }
           ]
         },
         {
