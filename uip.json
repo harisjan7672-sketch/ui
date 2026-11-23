@@ -12,7 +12,7 @@
           "items": [ 
             {"type": "switch", "name": "Silent Aim", "id": 8}, 
             {"type": "switch", "name": "Aimbot Lite", "id": 6}, 
-            {"type": "aimbot_select", "name": "Aimbot Select"} 
+            {"type": "switch", "name": "Ignore Knock", "id": 22}
           ] 
         }, 
         { 
@@ -24,7 +24,7 @@
             {"type": "slider", "name": "Head Rate", "id": 70, "default": 2, "max": 5, "unit": ""}, 
             {"type": "slider", "name": "Chest Rate", "id": 7, "default": 1, "max": 5, "unit": ""}, 
             {"type": "switch", "name": "Full Headshot", "id": 41}, 
-            {"type": "switch", "name": "Ignore Knock", "id": 22} 
+          
           ] 
         } 
       ] 
