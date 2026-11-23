@@ -18,7 +18,10 @@
           "name": "Aim Settings",
           "column": "right",
           "items": [
+            { "type": "slider", "name": "FOV", "id": 9, "default": 0, "max": 180, "unit": "" },
             { "type": "switch", "name": "Show Fov Radius", "id": 27 },
+            { "type": "slider", "name": "Head Rate", "id": 70, "default": 2, "max": 5, "unit": "" },
+            { "type": "slider", "name": "Chest Rate", "id": 7, "default": 1, "max": 5, "unit": "" },
             { "type": "switch", "name": "Full Headshot", "id": 41 },
             { "type": "switch", "name": "Ignore Knock", "id": 22 }
           ]
