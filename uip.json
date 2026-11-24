@@ -9,7 +9,7 @@
           "name": "Aim",
           "column": "left",
           "items": [
-            {"type": "switch", "name": "Silent Aim", "id": 8},
+            {"type": "switch", "name": "Silent sAim", "id": 8},
             {"type": "switch", "name": "Aimbot Lite", "id": 6},
             {"type": "switch", "name": "Ignore Knock", "id": 22}
             {"type": "switch", "name": "Aim Line", "id": 60},
