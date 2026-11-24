@@ -60,37 +60,7 @@
         } 
       ] 
     }, 
-    { 
-      "name": "SKIN", 
-      "categories": [ 
-        { 
-          "name": "SKIN CHANGER", 
-          "column": "left", 
-          "items": [ 
-            {"type": "switch", "name": "Criminal Red", "id": 2001}, 
-            {"type": "switch", "name": "Criminal Blue", "id": 2002}, 
-            {"type": "switch", "name": "Criminal Yellow", "id": 2003}, 
-            {"type": "switch", "name": "Criminal Purple", "id": 2004}, 
-            {"type": "switch", "name": "Criminal Green", "id": 2005}, 
-            {"type": "switch", "name": "Angelical Azul", "id": 2006}, 
-            {"type": "switch", "name": "Angelical Vermelha", "id": 2007}, 
-            {"type": "switch", "name": "Passe Sakura", "id": 2008}, 
-            {"type": "switch", "name": "Passe HipHop", "id": 2009}, 
-            {"type": "switch", "name": "Passe HipHop V2", "id": 2010} 
-          ] 
-        }, 
-        { 
-          "name": "INFO", 
-          "column": "right", 
-          "items": [ 
-            {"type": "text", "name": "Select a skin to apply"}, 
-            {"type": "text", "name": "Skins work in lobby and match"}, 
-            {"type": "text", "name": "Toggle again to remove"} 
-          ] 
-        } 
-      ] 
-    }, 
-    { 
+    {
       "name": "MISC", 
       "categories": [ 
         { 
@@ -121,6 +91,36 @@
         } 
       ] 
     }, 
+    { 
+      "name": "SKIN", 
+      "categories": [ 
+        { 
+          "name": "SKIN CHANGER", 
+          "column": "left", 
+          "items": [ 
+            {"type": "switch", "name": "Criminal Red", "id": 2001}, 
+            {"type": "switch", "name": "Criminal Blue", "id": 2002}, 
+            {"type": "switch", "name": "Criminal Yellow", "id": 2003}, 
+            {"type": "switch", "name": "Criminal Purple", "id": 2004}, 
+            {"type": "switch", "name": "Criminal Green", "id": 2005}, 
+            {"type": "switch", "name": "Angelical Azul", "id": 2006}, 
+            {"type": "switch", "name": "Angelical Vermelha", "id": 2007}, 
+            {"type": "switch", "name": "Passe Sakura", "id": 2008}, 
+            {"type": "switch", "name": "Passe HipHop", "id": 2009}, 
+            {"type": "switch", "name": "Passe HipHop V2", "id": 2010} 
+          ] 
+        }, 
+        { 
+          "name": "INFO", 
+          "column": "right", 
+          "items": [ 
+            {"type": "text", "name": "Select a skin to apply"}, 
+            {"type": "text", "name": "Skins work in lobby and match"}, 
+            {"type": "text", "name": "Toggle again to remove"} 
+          ] 
+        } 
+      ] 
+    },
     { 
       "name": "SETTINGS", 
       "categories": [ 
