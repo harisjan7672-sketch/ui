@@ -12,6 +12,7 @@
             {"type": "switch", "name": "Silent Aim", "id": 8},
             {"type": "switch", "name": "Aimbot Lite", "id": 6},
             {"type": "switch", "name": "Ignore Knock", "id": 22}
+            {"type": "switch", "name": "Aim Line", "id": 60},
           ]
         },
         {
@@ -35,14 +36,13 @@
           "column": "left",
           "items": [
             {"type": "switch", "name": "Enable Functions", "id": 1},
-            {"type": "switch", "name": "Aim Line", "id": 60},
-            {"type": "switch", "name": "ESP Alert", "id": 61},
             {"type": "switch", "name": "line", "id": 11},
             {"type": "switch", "name": "Box", "id": 12},
-            {"type": "switch", "name": "ESP Glow", "id": 64},
+            {"type": "switch", "name": "Alert", "id": 61},
             {"type": "switch", "name": "Name", "id": 21},
             {"type": "switch", "name": "Health", "id": 19},
             {"type": "switch", "name": "Distance", "id": 13},
+            {"type": "switch", "name": "Glow", "id": 64},,
             {"type": "switch", "name": "Counts", "id": 31}
           ]
         },
@@ -57,8 +57,6 @@
             {"type": "slider", "name": "Line Type", "id": 18, "default": 0, "max": 2, "unit": ""},
             {"type": "slider", "name": "Line Thickness", "id": 65, "default": 1, "max": 8, "unit": ""},
             {"type": "slider", "name": "Box Thickness", "id": 66, "default": 1, "max": 8, "unit": ""},
-            {"type": "slider", "name": "Health Pos X", "id": 67, "default": 0, "max": 100, "unit": ""},
-            {"type": "slider", "name": "Health Pos Y", "id": 68, "default": 0, "max": 100, "unit": ""},
             {"type": "slider", "name": "Text Size", "id": 20, "default": 10, "max": 25, "unit": ""},
             {"type": "text_style", "name": "Text Style", "id": 88}
           ]
